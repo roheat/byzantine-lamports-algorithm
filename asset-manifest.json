@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/byzantine-lamports-algorithm/static/css/main.767794b6.chunk.css",
+    "main.js": "/byzantine-lamports-algorithm/static/js/main.1866e08b.chunk.js",
+    "main.js.map": "/byzantine-lamports-algorithm/static/js/main.1866e08b.chunk.js.map",
+    "runtime~main.js": "/byzantine-lamports-algorithm/static/js/runtime~main.f6ec4dcf.js",
+    "runtime~main.js.map": "/byzantine-lamports-algorithm/static/js/runtime~main.f6ec4dcf.js.map",
+    "static/js/2.f20a6fab.chunk.js": "/byzantine-lamports-algorithm/static/js/2.f20a6fab.chunk.js",
+    "static/js/2.f20a6fab.chunk.js.map": "/byzantine-lamports-algorithm/static/js/2.f20a6fab.chunk.js.map",
+    "index.html": "/byzantine-lamports-algorithm/index.html",
+    "precache-manifest.157f88803f5671eff635f8b00738f788.js": "/byzantine-lamports-algorithm/precache-manifest.157f88803f5671eff635f8b00738f788.js",
+    "service-worker.js": "/byzantine-lamports-algorithm/service-worker.js",
+    "static/css/main.767794b6.chunk.css.map": "/byzantine-lamports-algorithm/static/css/main.767794b6.chunk.css.map"
+  }
+}
