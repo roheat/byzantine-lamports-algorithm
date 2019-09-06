@@ -1,0 +1,46 @@
+.options-container {
+  width: 200px;
+  background: #222222;
+  height: 100%;
+  padding: 0 30px;
+}
+
+.options-container label, h1, h5 {
+  color: #ffffff;
+}
+
+.button {
+  background-color: #4C6EF5;
+  color: #ffffff;
+  font-size: 14px;
+  margin: 10px;
+  border: none;
+  width: 150px;
+  padding: 10px 25px;
+  border-radius: 50px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #364FC7;
+}
+
+.button:focus, .general-count:focus {
+  outline: 0;
+}
+
+input[type="checkbox"] {
+    margin: 5px 5px;
+}
+
+.checkbox {
+  display: flex;
+  font-size: 16px;
+}
+
+.general-count {
+  border-radius: 20px;
+  border: none;
+  padding: 5px 10px;
+}
